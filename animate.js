@@ -2,7 +2,7 @@ window.onload = function(){
   $("#txt").hide();
 
   var WIDTH = 1300;
-  var HEIGHT = 650;
+  var HEIGHT = 600;
   var canvas, ctx;
 
   var pi = Math.PI;
