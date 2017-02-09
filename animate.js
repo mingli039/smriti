@@ -1,7 +1,7 @@
 window.onload = function(){
   $("#txt").hide();
 
-  var WIDTH = 1300;
+  var WIDTH = 1200;
   var HEIGHT = 650;
   var canvas, ctx;
 
